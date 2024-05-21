@@ -1,4 +1,4 @@
-# Currency Exchange App
+# Currency Exchange App Using Flutter
 
 This is a Flutter application that allows users to view and exchange currency rates.
 
