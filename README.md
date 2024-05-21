@@ -1,4 +1,4 @@
-# Currency Exchange App
+![image](https://github.com/Didar1313/currency_exchange_app/assets/73778140/95836a9f-7a24-4a43-82d9-2c725c138678)# Currency Exchange App
 
 This is a Flutter application that allows users to view and exchange currency rates.
 
@@ -14,8 +14,10 @@ This is a Flutter application that allows users to view and exchange currency ra
 ![Home Screen]![image](https://github.com/Didar1313/currency_exchange_app/assets/73778140/f77f727a-9e42-4817-993c-3a33c4a9b4c8)
 
 ![Exchange Screen](
-![Screenshot 2024-05-20 at 11 15 44 PM](https://github.com/Didar1313/currency_exchange_app/assets/73778140/b39f96a6-c190-4c84-a72c-010fe4db890d))
-![After Exchange Currency](![Screenshot 2024-05-20 at 11 18 03 PM](https://github.com/Didar1313/currency_exchange_app/assets/73778140/08783b4a-9afc-42d3-a91f-31dc2eea8dd5))
+<img width="245" alt="Screenshot 2024-05-21 at 9 42 21 PM" src="https://github.com/Didar1313/currency_exchange_app/assets/73778140/b6f5e33b-c5df-441c-ae8d-dd2d16a91822">
+)
+![After Exchange Currency](![image](https://github.com/Didar1313/currency_exchange_app/assets/73778140/f508f5a5-a054-4d41-bc45-45776931fcfc)
+)
 
 ## Getting Started
 
