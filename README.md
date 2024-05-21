@@ -11,8 +11,8 @@ This is a Flutter application that allows users to view and exchange currency ra
 
 ## Screenshots
 
-![Home Screen]((https://github.com/Didar1313/currency_exchange_app/assets/73778140/0eb0fb27-bf3a-4f2c-8a98-28e1bb479a54)
-)
+![Home Screen]![image](https://github.com/Didar1313/currency_exchange_app/assets/73778140/f77f727a-9e42-4817-993c-3a33c4a9b4c8)
+
 ![Exchange Screen](
 ![Screenshot 2024-05-20 at 11 15 44 PM](https://github.com/Didar1313/currency_exchange_app/assets/73778140/b39f96a6-c190-4c84-a72c-010fe4db890d))
 ![After Exchange Currency](![Screenshot 2024-05-20 at 11 18 03 PM](https://github.com/Didar1313/currency_exchange_app/assets/73778140/08783b4a-9afc-42d3-a91f-31dc2eea8dd5))
